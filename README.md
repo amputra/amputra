@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amputra
 - 👀 I’m interested in data analytic and data visualization
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analytic project
+- 🌱 I’m currently learning python and microsoft excel
+- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me amputra@outlook.com
 
 <!---
